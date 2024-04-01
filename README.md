@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm AmirHossein Mohammadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About Me
 I'm passionate about embedded programming and IoT. Here's a glimpse of my GitHub activity:
