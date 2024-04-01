@@ -15,14 +15,13 @@ I'm passionate about embedded programming and IoT. Here's a glimpse of my GitHub
 </table> -->
 
 <!-- ## Contact Me -->
-Feel free to reach out to me via the following links:
 
 <!-- <div align="center">
     <a href="your_linkedin_profile_url">
         <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=40/>
     </a>
     
-    <!-- Add more contact links as needed -->
+    
 </div> -->
 
 ## Skills
@@ -50,7 +49,7 @@ Here are some of the languages, frameworks, and tools I work with:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> Git
 
 ### Linux Related IoT:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Avrdude-logo.png/240px-Avrdude-logo.png" width="40" height="40"/> avrdude
+- avrdude
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png" width="40" height="40"/> Linux Kernel
 
 ### Other Skills:
